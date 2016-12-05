@@ -1,4 +1,4 @@
-# EXAM: Java Basics
+﻿# EXAM: Java Basics
 
 ### Getting Started
  - Fork this repository under your own account
@@ -111,7 +111,7 @@ Are the tests passing? Detail your answer! [2p] Fix the situation! [2p]
 ## 4. Question time! (~20 mins) [6p]
 
 ### Where the abstract class is useful? [2p]
-#### Your answer:
+#### Your answer: The purpose of an abstract class is to function as a base for subclasses. It is useful when we want to define the methods for the subclasses which they have to override and use. 
 
 ### Describe a method! Show the necessary parts and how are them called! [2p]
 #### Your answer:
