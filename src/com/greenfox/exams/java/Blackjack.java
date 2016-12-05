@@ -42,7 +42,7 @@ public class Blackjack {
     }
 
 
-    private void Button(){
+    private void Buttons(){
 
         playerLabel.setText("User played");
         houseLabel.setText("House played");
