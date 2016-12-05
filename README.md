@@ -114,7 +114,7 @@ Are the tests passing? Detail your answer! [2p] Fix the situation! [2p]
 #### Your answer: The purpose of an abstract class is to function as a base for subclasses. It is useful when we want to define the methods for the subclasses which they have to override and use. 
 
 ### Describe a method! Show the necessary parts and how are them called! [2p]
-#### Your answer:
+#### Your answer: A method describes a behavior. The necessary parts are: returnType identifier ([parameterList // optional]){method body} If the method returns String then the return type has to be String, but it can also be int, boolean, or even void when it does not return anything. The method body contains the code to be executed when the method is called.
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
