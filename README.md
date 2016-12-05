@@ -117,4 +117,4 @@ Are the tests passing? Detail your answer! [2p] Fix the situation! [2p]
 #### Your answer: A method describes a behavior. The necessary parts are: returnType identifier ([parameterList // optional]){method body} If the method returns String then the return type has to be String, but it can also be int, boolean, or even void when it does not return anything. The method body contains the code to be executed when the method is called.
 
 ### What is the constructor? When it is used? [2p]
-#### Your answer:
+#### Your answer: The constructor is for initializing an object. It is used when we want to define and create an object. The constructors name has to be the class name it belengs to. It has a parameterList and a body: ClassName ([parameterList] //optional){construtor body} The constructor doesn't have a return type, because it does not return anything. When a class doesn't declare any constructors, the compiler generates a default no argument constructor.
