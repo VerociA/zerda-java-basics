@@ -105,7 +105,7 @@ class TestApple {
 
 Are the tests passing? Detail your answer! [2p] Fix the situation! [2p]
 
-#### Explain what you did, and answer the questions here:
+#### Explain what you did, and answer the questions here: No they dn't pass.
 
 
 ## 4. Question time! (~20 mins) [6p]
